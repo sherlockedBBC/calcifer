@@ -6,7 +6,7 @@ This Repository contains information on the hard- and software of a LED-Lamp in 
 
 ## Acknowledgements
 
-The the 3d print files are based on [CosmicNimbus's](https://makerworld.com/de/@CosmicNimbus) [Calcifer Lamp]('https://makerworld.com/de/models/551520-calcifer-lamp-bbl-led-kit-modified?from=search#profileId-470077') but were heavily modified to fit the requirements.
+The 3d print files are based on [CosmicNimbus's](https://makerworld.com/de/@CosmicNimbus) [Calcifer Lamp]('https://makerworld.com/de/models/551520-calcifer-lamp-bbl-led-kit-modified?from=search#profileId-470077') but were heavily modified to fit the requirements. My files can also be found on [printables](https://www.printables.com/model/1315251-calcifer-led-lamp).
 
 During software development, I often used github copilot in VS Code to speed up development. I am not a software dev, but the code worked as intended so far. The libraries and frameworks used are listed in the ```platformio.ini```-file.
 
